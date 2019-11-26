@@ -6,6 +6,16 @@ https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI
 **Original src:**  
 https://github.com/iamshaunjp/react-context-hooks
 
+<br/>
+
+### React Context & Hooks Tutorial #1 - Introduction
+
+    $ npx create-react-app .
+    $ npm start
+
+<br/>
+
+![Application](/img/lesson1-01.png?raw=true)
 
 ---
 
