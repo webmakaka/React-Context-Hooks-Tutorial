@@ -21,6 +21,12 @@ https://github.com/iamshaunjp/react-context-hooks
 
 ### React Context & Hooks Tutorial #2 - What is the Context API
 
+Only theory
+
+<br/>
+
+### React Context & Hooks Tutorial #3 - Adding a Context & Provider
+
 ---
 
 **Marley**
