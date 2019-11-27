@@ -27,6 +27,10 @@ Only theory
 
 ### React Context & Hooks Tutorial #3 - Adding a Context & Provider
 
+<br/>
+
+![Application](/img/lesson3-01.png?raw=true)
+
 ---
 
 **Marley**
