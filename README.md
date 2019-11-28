@@ -37,7 +37,7 @@ Only theory
 
 <br/>
 
-### React Context & Hooks Tutorial #5 - Accessing Context
+![Application](/img/lesson4-01.png?raw=true)
 
 ---
 
