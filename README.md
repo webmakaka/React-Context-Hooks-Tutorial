@@ -49,7 +49,15 @@ Only theory
 
 <br/>
 
+![Application](/img/lesson6-01.png?raw=true)
+
+<br/>
+
 ### React Context & Hooks Tutorial #7 - Creating Multiple Contexts
+
+<br/>
+
+![Application](/img/lesson7-01.png?raw=true)
 
 ---
 
