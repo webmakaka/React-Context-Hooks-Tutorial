@@ -43,6 +43,10 @@ Only theory
 
 ### React Context & Hooks Tutorial #5 - Accessing Context
 
+<br/>
+
+### React Context & Hooks Tutorial #6 - Updating Context Data
+
 ---
 
 **Marley**
