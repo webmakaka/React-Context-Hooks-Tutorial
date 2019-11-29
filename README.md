@@ -47,6 +47,10 @@ Only theory
 
 ### React Context & Hooks Tutorial #6 - Updating Context Data
 
+<br/>
+
+### React Context & Hooks Tutorial #7 - Creating Multiple Contexts
+
 ---
 
 **Marley**
