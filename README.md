@@ -59,11 +59,31 @@ Only theory
 
 ![Application](/img/lesson7-01.png?raw=true)
 
+<br/>
+
+### React Context & Hooks Tutorial #8 - Consuming Multiple Contexts
+
+<br/>
+
+![Application](/img/lesson8-01.png?raw=true)
+
+<br/>
+
+### React Context & Hooks Tutorial #9 - Intro to Hooks
+
+<br/>
+
+![Application](/img/lesson9-01.png?raw=true)
+
+<br/>
+
+### React Context & Hooks Tutorial #10 - useState Hook
+
 ---
 
 **Marley**
 
 <a href="https://jsdev.org">jsdev.org</a>
 
-Any questions on eng: https://t.me/jsdev_org  
-Любые вопросы на русском: https://t.me/jsdev_ru
+Any questions on eng: <a href="https://jsdev.org/chat/">Telegram or Slack</a>  
+Любые вопросы на русском: <a href="https://jsdev.ru/chat/">Telegram or Slack</a>
