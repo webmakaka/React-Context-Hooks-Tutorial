@@ -79,6 +79,12 @@ Only theory
 
 ### React Context & Hooks Tutorial #10 - useState Hook
 
+    $ npm install --save uuid
+
+<br/>
+
+![Application](/img/lesson10-01.png?raw=true)
+
 ---
 
 **Marley**
