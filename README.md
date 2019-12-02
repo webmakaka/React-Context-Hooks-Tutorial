@@ -97,6 +97,10 @@ Only theory
 
 ### React Context & Hooks Tutorial #12 - useEffect Hook
 
+<br/>
+
+![Application](/img/lesson12-01.png?raw=true)
+
 ---
 
 **Marley**
