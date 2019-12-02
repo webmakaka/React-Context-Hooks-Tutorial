@@ -105,6 +105,10 @@ Only theory
 
 ### React Context & Hooks Tutorial #13 - Hooks with Context
 
+<br/>
+
+![Application](/img/lesson13-01.png?raw=true)
+
 ---
 
 **Marley**
