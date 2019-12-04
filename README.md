@@ -126,6 +126,11 @@ Nothing visual changes
 ### React Context & Hooks Tutorial #16 - Reading List Project (part 1)
 
     $ npx create-react-app .
+    $ npm install --save uuid
+
+<br/>
+
+![Application](/img/lesson16-01.png?raw=true)
 
 ---
 
