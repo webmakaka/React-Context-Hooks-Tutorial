@@ -132,6 +132,14 @@ Nothing visual changes
 
 ![Application](/img/lesson16-01.png?raw=true)
 
+<br/>
+
+### React Context & Hooks Tutorial #17 - Reading List App (part 2)
+
+<br/>
+
+![Application](/img/lesson17-01.png?raw=true)
+
 ---
 
 **Marley**
