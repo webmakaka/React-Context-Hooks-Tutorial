@@ -148,6 +148,18 @@ Nothing visual changes
 
 ![Application](/img/lesson18-01.png?raw=true)
 
+<br/>
+
+### React Context & Hooks Tutorial #19 - Reducers, Actions & State
+
+<br/>
+
+![Application](/img/lesson19-01.png?raw=true)
+
+<br/>
+
+### React Context & Hooks Tutorial #20 - Adding a Reducer
+
 ---
 
 **Marley**
