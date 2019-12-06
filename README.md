@@ -160,6 +160,10 @@ Nothing visual changes
 
 ### React Context & Hooks Tutorial #20 - Adding a Reducer
 
+<br/>
+
+![Application](/img/lesson20-01.png?raw=true)
+
 ---
 
 **Marley**
